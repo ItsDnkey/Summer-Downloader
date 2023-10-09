@@ -8,7 +8,7 @@ Download Youtube Videos For Free
 * Saves To A Folder
 * 100% free no hidden costs or ads
 * open source
-* no controls over whta you cna download
+* no controls over what you cna download
 * no one can see your downloads
 
 
